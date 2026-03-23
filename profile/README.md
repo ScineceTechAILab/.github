@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=44&pause=900&color=00F0FF&center=true&vCenter=true&width=1200&lines=STA+Laboratory;SYSTEM+ONLINE;Engineering+Innovation;Oilfield+Technology;Mechanical+Systems;Research+%C3%97+Engineering+%C3%97+Innovation;Building+the+Future" alt="Typing SVG" />
 </p>
 
-<h1 align="center">STA ENGINEERING LAB</h1>
+<h1 align="center">STA LAB</h1>
 
 <p align="center">
 <strong>专注机械工程，深耕油田技术，探索智能系统，创造工程价值。</strong>
