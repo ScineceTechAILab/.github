@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/创新-从研究走向现实-9B59B6?style=flat-square" alt="创新" />
 </p>
 
----
+<hr/>
 
 <h2 align="center">🔬 关于 STA 实验室</h2>
 
@@ -49,7 +49,7 @@
   我们更希望把二者结合起来，形成真正能够落地、能够被使用、能够产生影响的项目与成果。
 </p>
 
----
+<hr/>
 
 <h2 align="center">🧩 技术栈</h2>
 
@@ -57,168 +57,130 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,java,pytorch,tensorflow,docker,linux,git,opencv,matlab,vscode,github&perline=6" alt="技术栈" />
 </p>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td width="33%" valign="top" align="left">
-
-#### ⚙️ 机械与工程工具
-- **SolidWorks / AutoCAD**：机械设计与建模  
-- **MATLAB / Simulink**：系统仿真与控制  
-- **ANSYS / COMSOL**：有限元分析与多物理场建模  
-
+    <td width="33%" valign="top" align="center">
+      <h3>⚙️ 机械与工程工具</h3>
+      <p><strong>SolidWorks / AutoCAD</strong><br/>机械设计与建模</p>
+      <p><strong>MATLAB / Simulink</strong><br/>系统仿真与控制</p>
+      <p><strong>ANSYS / COMSOL</strong><br/>有限元分析与多物理场建模</p>
     </td>
-    <td width="33%" valign="top" align="left">
-
-#### 🤖 智能与数据分析
-- **Python**：数据分析、机器学习、自动化开发  
-- **C++​**：嵌入式系统、实时控制、高性能计算  
-- **TensorFlow / PyTorch**：深度学习与智能建模  
-
+    <td width="33%" valign="top" align="center">
+      <h3>🤖 智能与数据分析</h3>
+      <p><strong>Python</strong><br/>数据分析、机器学习、自动化开发</p>
+      <p><strong>C++</strong><br/>嵌入式系统、实时控制、高性能计算</p>
+      <p><strong>TensorFlow / PyTorch</strong><br/>深度学习与智能建模</p>
     </td>
-    <td width="33%" valign="top" align="left">
-
-#### 📁 工程管理协作
-- **Git**：版本控制与团队协作  
-- **Docker**：开发环境与部署标准化  
-- **飞书 / 文档工具**：项目管理与组织协同  
-
+    <td width="33%" valign="top" align="center">
+      <h3>📁 工程管理协作</h3>
+      <p><strong>Git</strong><br/>版本控制与团队协作</p>
+      <p><strong>Docker</strong><br/>开发环境与部署标准化</p>
+      <p><strong>飞书 / 文档工具</strong><br/>项目管理与组织协同</p>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">🚀 我们构建的内容</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="25%" valign="top" align="center">
-
-#### 智能系统
-智能系统与智能化应用
-
+      <h3>智能系统</h3>
+      <p>智能系统与智能化应用</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 数据工具
-数据驱动的工具与分析平台
-
+      <h3>数据工具</h3>
+      <p>数据驱动的工具与分析平台</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 实验原型
-实验性原型与技术解决方案
-
+      <h3>实验原型</h3>
+      <p>实验性原型与技术解决方案</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 创新项目
-面向真实场景的跨学科创新项目
-
+      <h3>创新项目</h3>
+      <p>面向真实场景的跨学科创新项目</p>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">🌌 我们的文化</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="25%" valign="top" align="center">
-
-#### 好奇驱动
-以好奇心为起点
-
+      <h3>好奇驱动</h3>
+      <p>以好奇心为起点</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 协作共创
-以协作为常态
-
+      <h3>协作共创</h3>
+      <p>以协作为常态</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 研究导向
-以研究为目标导向
-
+      <h3>研究导向</h3>
+      <p>以研究为目标导向</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 持续迭代
-构建、测试、优化、迭代
-
+      <h3>持续迭代</h3>
+      <p>构建、测试、优化、迭代</p>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">🧠 研究方向</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="25%" valign="top" align="center">
-
-#### 人工智能
-AI / Machine Learning
-
+      <h3>人工智能</h3>
+      <p>AI / Machine Learning</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 数据科学
-数据分析 / 可视化
-
+      <h3>数据科学</h3>
+      <p>数据分析 / 可视化</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 软件系统
-软件工程 / 平台系统
-
+      <h3>软件系统</h3>
+      <p>软件工程 / 平台系统</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 交叉创新
-以人为中心的跨学科创新
-
+      <h3>交叉创新</h3>
+      <p>以人为中心的跨学科创新</p>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">✨ 实验室亮点</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="25%" valign="top" align="center">
-
-#### 真实问题
-面向真实问题开展科研探索
-
+      <h3>真实问题</h3>
+      <p>面向真实问题开展科研探索</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 完整路径
-从创意到原型再到落地
-
+      <h3>完整路径</h3>
+      <p>从创意到原型再到落地</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 开放合作
-鼓励跨学科合作与开放交流
-
+      <h3>开放合作</h3>
+      <p>鼓励跨学科合作与开放交流</p>
     </td>
     <td width="25%" valign="top" align="center">
-
-#### 共同成长
-技术、研究与创新能力并进
-
+      <h3>共同成长</h3>
+      <p>技术、研究与创新能力并进</p>
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">📊 实验室数据</h2>
 
@@ -233,7 +195,7 @@ AI / Machine Learning
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">📈 活动图谱</h2>
 
@@ -241,30 +203,30 @@ AI / Machine Learning
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liu6027&theme=tokyo-night&hide_border=true&area=true" alt="活动图谱" />
 </p>
 
----
+<hr/>
 
 <h2 align="center">🧪 代表项目</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库1&theme=tokyonight&hide_border=true" alt="项目1" />
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库2&theme=tokyonight&hide_border=true" alt="项目2" />
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td width="50%" align="center">
       <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库3&theme=tokyonight&hide_border=true" alt="项目3" />
     </td>
-    <td align="center">
+    <td width="50%" align="center">
       <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库4&theme=tokyonight&hide_border=true" alt="项目4" />
     </td>
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">📡 联系我们</h2>
 
@@ -288,25 +250,25 @@ AI / Machine Learning
   </tr>
 </table>
 
----
+<hr/>
 
 <h2 align="center">加入我们</h2>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" align="center">
-
-#### 面向学生
-欢迎对科研、技术与创新充满热情的同学加入我们，<br/>
-一起探索问题、构建系统、完成项目。
-
+      <h3>面向学生</h3>
+      <p>
+        欢迎对科研、技术与创新充满热情的同学加入我们，<br/>
+        一起探索问题、构建系统、完成项目。
+      </p>
     </td>
     <td width="50%" valign="top" align="center">
-
-#### 面向伙伴
-欢迎希望共同推动科研合作、技术实践与创新项目的伙伴，<br/>
-与 STA 实验室一起创造更有影响力的成果。
-
+      <h3>面向伙伴</h3>
+      <p>
+        欢迎希望共同推动科研合作、技术实践与创新项目的伙伴，<br/>
+        与 STA 实验室一起创造更有影响力的成果。
+      </p>
     </td>
   </tr>
 </table>
