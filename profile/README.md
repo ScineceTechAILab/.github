@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/聚焦方向-智能系统-0A66C2?style=flat-square" alt="聚焦方向" />
+  <img src="https://img.shields.io/badge/聚焦方向-具身智能&脑机接口-0A66C2?style=flat-square" alt="聚焦方向" />
   <img src="https://img.shields.io/badge/工作流-构建%20%E2%86%92%20测试%20%E2%86%92%20优化-222222?style=flat-square" alt="工作流" />
   <img src="https://img.shields.io/badge/协作-欢迎加入-2EA44F?style=flat-square" alt="协作" />
   <img src="https://img.shields.io/badge/创新-从研究走向现实-9B59B6?style=flat-square" alt="创新" />
@@ -37,7 +37,7 @@
 <h2 align="center">🔬 关于 STA 实验室</h2>
 
 <p align="center">
-  STA 实验室是一个面向未来的科研与创新空间，聚焦于智能技术、数据分析、系统开发与交叉学科应用。
+  STA 实验室是一个面向未来的科研与创新空间，纵向方向聚焦于具身智能、AI、脑机接口，横向方向聚焦于垂直领域的AI软硬件产品研发。
 </p>
 
 <p align="center">
@@ -60,22 +60,24 @@
 <table align="center" width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
-      <h3>⚙️ 机械与工程工具</h3>
-      <p><strong>SolidWorks / AutoCAD</strong><br/>机械设计与建模</p>
-      <p><strong>MATLAB / Simulink</strong><br/>系统仿真与控制</p>
-      <p><strong>ANSYS / COMSOL</strong><br/>有限元分析与多物理场建模</p>
+      <h3>⚙️ 机械工程</h3>
+      <p><strong>SolidWorks / AutoCAD</strong><br/>机械设计与建模Soldworks</p>
+      <p><strong>MATLAB / Simulink</strong><br/>系统仿真与控制MATLAB</p>
+      <p><strong>ANSYS / COMSOL</strong><br/>有限元分析与多物理场建模ANSYS</p>
     </td>
     <td width="33%" valign="top" align="center">
-      <h3>🤖 智能与数据分析</h3>
+      <h3>🤖 软件工程</h3>
       <p><strong>Python</strong><br/>数据分析、机器学习、自动化开发</p>
       <p><strong>C++</strong><br/>嵌入式系统、实时控制、高性能计算</p>
       <p><strong>TensorFlow / PyTorch</strong><br/>深度学习与智能建模</p>
     </td>
+
+    
     <td width="33%" valign="top" align="center">
       <h3>📁 工程管理协作</h3>
       <p><strong>Git</strong><br/>版本控制与团队协作</p>
       <p><strong>Docker</strong><br/>开发环境与部署标准化</p>
-      <p><strong>飞书 / 文档工具</strong><br/>项目管理与组织协同</p>
+      <p><strong>飞书 </strong><br/>项目管理与组织协同</p>
     </td>
   </tr>
 </table>
@@ -138,20 +140,17 @@
   <tr>
     <td width="25%" valign="top" align="center">
       <h3>人工智能</h3>
-      <p>AI / Machine Learning</p>
+      <p>AI / RL /</p>
     </td>
     <td width="25%" valign="top" align="center">
-      <h3>数据科学</h3>
-      <p>数据分析 / 可视化</p>
+      <h3>具身智能</h3>
+      <p> VLM / 可视化</p>
     </td>
     <td width="25%" valign="top" align="center">
-      <h3>软件系统</h3>
-      <p>软件工程 / 平台系统</p>
+      <h3>脑机接口</h3>
+      <p>意图解析/指令控制</p>
     </td>
-    <td width="25%" valign="top" align="center">
-      <h3>交叉创新</h3>
-      <p>以人为中心的跨学科创新</p>
-    </td>
+
   </tr>
 </table>
 
@@ -210,10 +209,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库1&theme=tokyonight&hide_border=true" alt="项目1" />
+      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=https://github.com/ScineceTechAILab/2025-Fire_Detection_System1&theme=tokyonight&hide_border=true" alt="基于飞书和YoLo的火灾报警系统" />
     </td>
     <td width="50%" align="center">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库2&theme=tokyonight&hide_border=true" alt="项目2" />
+      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=https://github.com/ScineceTechAILab/2026-Jic_Competiion2&theme=tokyonight&hide_border=true" alt="BCI&AGENT AGV 运载平台" />
     </td>
   </tr>
   <tr>
