@@ -71,8 +71,6 @@
       <p><strong>C++</strong><br/>嵌入式系统、实时控制、高性能计算</p>
       <p><strong>TensorFlow / PyTorch</strong><br/>深度学习与智能建模</p>
     </td>
-
-    
     <td width="33%" valign="top" align="center">
       <h3>📁 工程管理协作</h3>
       <p><strong>Git</strong><br/>版本控制与团队协作</p>
