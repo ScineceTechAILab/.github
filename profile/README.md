@@ -67,9 +67,15 @@
     </td>
     <td width="33%" valign="top" align="center">
       <h3>🤖 软件工程</h3>
-      <p><strong>Python</strong><br/>数据分析、机器学习、自动化开发</p>
-      <p><strong>C++</strong><br/>嵌入式系统、实时控制、高性能计算</p>
-      <p><strong>TensorFlow / PyTorch</strong><br/>深度学习与智能建模</p>
+      <p><strong>Python/Matlab</strong><br/>数据分析、机器学习、自动化开发</p>
+      <p><strong>C/C++</strong><br/>嵌入式系统、实时控制、高性能计算</p>
+      <p><strong>TS/Dart / PyTorch</strong><br/>前端页面设计</p>
+      <p><strong>Go/Java / PyTorch</strong><br/>后端业务涉及</p>
+    </td>
+        <td width="33%" valign="top" align="center">
+      <h3>🤖 电子工程</h3>
+      <p><strong>嘉立创EDA/Candence</strong><br/>EDA 设计</p>
+      <p><strong></strong><br/>嵌入式系统、实时控制、高性能计算</p>
     </td>
     <td width="33%" valign="top" align="center">
       <h3>📁 工程管理协作</h3>
