@@ -200,11 +200,6 @@
 
 <hr/>
 
-<h2 align="center">📈 活动图谱</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Liu6027&theme=tokyo-night&hide_border=true&area=true" alt="活动图谱" />
-</p>
 
 <hr/>
 
