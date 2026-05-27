@@ -208,18 +208,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=https://github.com/ScineceTechAILab/2025-Fire_Detection_System1&theme=tokyonight&hide_border=true" alt="基于飞书和YoLo的火灾报警系统" />
+      <img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ScineceTechAILab&repo=2025-Fire_Detection_System&theme=tokyo-night" alt="基于飞书和YoLo的火灾报警系统" />
     </td>
     <td width="50%" align="center">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=https://github.com/ScineceTechAILab/2026-Jic_Competiion2&theme=tokyonight&hide_border=true" alt="BCI&AGENT AGV 运载平台" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库3&theme=tokyonight&hide_border=true" alt="项目3" />
-    </td>
-    <td width="50%" align="center">
-      <img width="95%" src="https://github-readme-stats.vercel.app/api/pin/?username=Liu6027&repo=你的仓库4&theme=tokyonight&hide_border=true" alt="项目4" />
+      <img width="95%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ScineceTechAILab&repo=2026-FFSSCP_Hardware_Driver&theme=tokyo-night" alt="压裂返排液硬件驱动" />
     </td>
   </tr>
 </table>
